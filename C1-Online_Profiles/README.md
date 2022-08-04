@@ -13,6 +13,5 @@ https://github.com/aritz95
 www.linkedin.com/in/alyssa-ritz
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[View/Download Resume](https://github.com/aritz95/liftoff-assignments/blob/75620257a9ad99527cff859d20f07ff3d7dcf223/C1-Online_Profiles/Alyssa%20Ritz%20Resume.pdf)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
