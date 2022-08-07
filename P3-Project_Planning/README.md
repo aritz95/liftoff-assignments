@@ -9,12 +9,12 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 - [Wireframe One](./wireframe1.png)
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [Wireframe Two]
+- [Wireframe Three]
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/4EeCsZUS/liftoff-july-2022
 
 ### Project Repo Link
 
