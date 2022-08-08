@@ -18,4 +18,4 @@ https://trello.com/b/4EeCsZUS/liftoff-july-2022
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Jul-2022-LC-LiftOff/RecipeApp
