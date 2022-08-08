@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 - [Wireframe One](./wireframe1.png)
-- [Wireframe Two]
+- [Wireframe Two](./wireframe2.png)
 - [Wireframe Three]
 
 ### Project Tracker
