@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Recipe App Presentation](https://github.com/aritz95/liftoff-assignments/blob/master/P6-Project_Presentation/RecipeApp.pdf)
